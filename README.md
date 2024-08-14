@@ -1,3 +1,3 @@
 # git-learning1
 This is a test text
-This is tezt number 1
+This is test number 1
